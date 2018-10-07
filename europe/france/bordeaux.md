@@ -2,7 +2,7 @@
 
 Bordeaux 
 
-- [Map] (#map)
+- [Map](#map)
 - [Food](#food)
 - [Drinks](#drinks)
 - [Destinations](#destinations)
@@ -19,12 +19,32 @@ Bordeaux
 
 ## Food
 
+### Le Bistrot du Gabriel
+:star::star::star:
+
+### Le Bordeaux
+### La Brasserie Bordelaise
+### Le Troquet
 
 ## Drinks
 
+### Le Bistrot du Gabriel
+:star::star::star:
+
 ## Destinations
 
+### Bordeaux Cathedral
+
+### Place de la Bourse
+
+### Le Miroir d'eau
+
+### Opéra National de Bordeaux
+
+
 ## Art
+
+### CAPC Museum of Contemporary Art of Bordeaux
 
 ## Lodging
 
