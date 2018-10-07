@@ -2,12 +2,12 @@
 
 Bordeaux 
 
-- [Food](#Food)
-- [Drinks](#Drinks)
-- [Destinations](#Destinations)
-- [Art](#Art)
-- [Hotel](#Hotel)
-- [Memories](#Memories)
+- [Food](#food)
+- [Drinks](#drinks)
+- [Destinations](#destinations)
+- [Art](#art)
+- [Hotel](#hotel)
+- [Memories](#memories)
 
 -----
 
