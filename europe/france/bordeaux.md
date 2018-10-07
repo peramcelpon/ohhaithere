@@ -19,32 +19,49 @@ Bordeaux
 
 ## Food
 
-#### Le Bistrot du Gabriel
-:star::star::star:
+### From experience
+**Le Bistrot du Gabriel**
 
-### Le Bordeaux
-### La Brasserie Bordelaise
-### Le Troquet
+3/3 :star::star::star:
+The view and food were both fantastic. Will definitely go again. Best get a reservation if you are looking for good tables during dinner.
+2018 October: A starved Sarah went in the first restaurant that didn't have a line. It turns out that they don't have a line because their lunch hour is ending. Perhaps they saw the crazy in my eyes -- they let me in. I enjoyed my fois gras and cod while staring at the couple at the next table -- in my defense, you can see Le Miroir d'eau and Pont de Pierre through the window by them. 
+
+**La Brasserie Bordelaise**
+
+2/3 :star::star:
+This seemed like a popular local spot with amazing food, great wine selection and fun staff. 
+2018 October: As I was traveling alone, I was looking for a restaurant with a populated bar scene when I stumbled upon this place. I had a great conversations with a woman named Lilo that night. She is absolutely crazy, but the fun kind. 
+
+### My to-try list
+**Le Bordeaux**
+
+**Le Troquet**
 
 ## Drinks
 
-### Le Bistrot du Gabriel
-:star::star::star:
 
 ## Destinations
 
-### Bordeaux Cathedral
+### From experience
+**Bordeaux Cathedral**
 
+**Le Miroir d'eau**
+
+3/3 :star::star::star:
+Very vibrant at night
+
+### My to-try list
 ### Place de la Bourse
-
-### Le Miroir d'eau
 
 ### Opéra National de Bordeaux
 
-
 ## Art
 
-### CAPC Museum of Contemporary Art of Bordeaux
+### From experience
+**CAPC Museum of Contemporary Art of Bordeaux**
+
+3/3 :star::star::star:
+Such an amazing space.
 
 ## Lodging
 
