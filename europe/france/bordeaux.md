@@ -19,7 +19,7 @@ Bordeaux
 
 ## Food
 
-### Le Bistrot du Gabriel
+#### Le Bistrot du Gabriel
 :star::star::star:
 
 ### Le Bordeaux
