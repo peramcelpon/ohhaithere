@@ -11,14 +11,14 @@ Bordeaux
 
 -----
 
-#Food
+## Food
 
-#Drinks
+## Drinks
 
-#Destinations
+## Destinations
 
-#Art
+## Art
 
-#Hotel
+## Hotel
 
-#Memories
+## Memories
