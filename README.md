@@ -7,7 +7,7 @@ This is my way of sharing city guides and travel recommendations. Organized by c
 - Drinks
 - Destinations
 - Art
-- Hotel
+- Lodging
 - Memories (sometimes)
 
 Please note that the guides are not meant to be a comprehensive view of the city, but a personal snippet through my lens.
