@@ -82,18 +82,27 @@ Ornate, Baroque, 18th-century church with twin bell towers.
 ### From experience
 
 **Museu Calouste Gulbenkian**
-one of the finest and most valuable collections of art in Europe
+
+2/3
+
+Great museum to visit if you are into European art (post Renaissance) like I do. My absolutely favorite from this museum was not a Rubens or Rembrandt, but a still of peacock and hunting trophies by Jan Weenix. The finess and contrast in texture across the painting were signature of Dutch paintings. In additional, the contrast of life and death with such natualistic resemblence truly moved me. 
+
+Other works of art that I enjoyed
 - Rubens, Portrait Of Helena Fourment
 - Turner, The Wreck Of A Transport Ship
-- The Book Of Hours Of Isabel Of Brittany
 - Statue Of Diana
-- Manet - "Boy Blowing Bubbles"
-- Rembrandt - "Portrait of an Old Man"
+- Manet - Boy Blowing Bubbles
+- Rembrandt - Portrait of an Old Man
 
 **Museu Coleção Berardo**
-Modern & contemporary art museum, with works by Picasso, Bacon & Warhol plus temporary exhibitions.
-- Picasso - "Femme dans un Fauteuil (Métamorphose)"
-- Paula Rego - "The Barn"
+
+2/3 
+
+This museum is much newer and focuses on modern/contemporary pieces. When I walked through the galleries, it felt like my art history textbook appearing chapter by chapter. The curator did a great job assembling works that are representative of artistic movements. 
+
+Works that I enjoyed: 
+
+My favorite part of this museum is the olive garden outback. You can sit with a drink in lawn chairs amongst artworks and water feature, while enjoying a full view of the harbor and Ponte 25 de Abril (which is eerily similar to the Golden Gate bridge). I love the sunset here.
 
 ### My to-try list
 
