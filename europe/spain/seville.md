@@ -23,8 +23,15 @@ Recommended by my Airbnb host, La Bodega is a traditional tapas spot. It’s cer
 
 ### My to-try list
 
+**T de Triana**
+
+Located right by the river and you can sit by the bank. 
+
+**La Brunilda Tapas**
+
 ## Drinks
 
+### From Experience
 **Le XIX**
 
 1/3
@@ -49,10 +56,40 @@ Relaxing spot by the river. It’s located on Calle Betis, where you’d want to
 
 2018 October: The owner poured me a glass a gin and gave me my own bottle of tonic water. I carried this DIY-styled drink to the river and ended up finishing all the gin and some of the tonic. End of story. 
 
+### My to-try list
+
+**Casa Anselma***
+
+Near Calle Betis and opens at midnight. Apparently one of *the* flamenco clubs to be at. 
+
 ## Destinations
+
+### From Experience
+
+**Seville Museum of Fine Arts**
+
+3/3 
+
+Bartolomé Esteban Murillo
+Cute artist market outside
+
+**Royal Alcázar of Seville**
+
+3/3 
+
+I’d give this place a million points if I could.
+
+**Muelle Camaronero**
+
+2/3
+
+To be totally honest, I have no idea what this place is. I stumbled upon this little area where you can walk down to the water during my late night strolls. I bookmarked it as a great spot to sit and hangout with friends by the water. 
+
+### My to-try list
+
+**Plaza de España**
+
 
 ## Art
 
 ## Lodging
-
-## Memories
