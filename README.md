@@ -2,13 +2,12 @@
 
 Oh hai there. If you know me, you've probably noticed that I'm often on the road for work or for fun. If you don't know me, well, now you do a little bit.
 
-This is my way of sharing city guides and travel recommendations. Organized by city, each guide contains recommendations for
+This is a dual-purposed project. It serves both as my reference and travel diary as well as sharable city guides and travel recommendations. Organized by city, each guide contains recommendations for the following areas, some with past memories attached. :) 
 - Food
 - Drinks
 - Destinations
 - Art
 - Lodging
-- Memories (sometimes)
 
 Please note that the guides are not meant to be a comprehensive view of the city, but a personal snippet through my lens.
 
