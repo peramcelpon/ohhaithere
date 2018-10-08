@@ -6,7 +6,7 @@ Overview
 - [Food](#food)
 - [Drinks](#drinks)
 - [Destinations](#destinations)
-- [Art & Architecture](#art)
+- [Art & Architecture](#art--architecture)
 - [Lodging](#lodging)
 
 -----
