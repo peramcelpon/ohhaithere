@@ -23,11 +23,15 @@ Overview
 
 ### My to-try list
 
+-----
+
 ## Drinks
 
 ### From experience
 
 ### My to-try list
+
+-----
 
 ## Destinations
 
@@ -35,11 +39,15 @@ Overview
 
 ### My to-try list
 
+-----
+
 ## Art & Architecture
 
 ### From experience
 
 ### My to-try list
+
+-----
 
 ## Lodging
 
