@@ -45,7 +45,7 @@ My type of place — slightly hidden but easy to locate, good service without be
 
 2/3
 
-This bar used to be a brothel, and they are not shy to show that with paintings, graffitis, sculptures... essentially every imaginable way. It is located above Lisbon’s Pink Street and populated with tourists. (Yes all you hear is English) The drinks are quite decent, and definitely worth a stop to impress out-of-towners.
+This bar used to be a brothel, and they are not shy to show that with paintings, graffitis, sculptures... essentially in every imaginable way. It is located above Lisbon’s Pink Street and populated with tourists. (Yes all you hear is English) The drinks are quite decent, and definitely worth a stop to impress out-of-towners.
 
 ### My to-try list
 
@@ -112,14 +112,14 @@ My favorite part of this museum is the olive garden outback. You can sit with a 
 
 ### My to-try list
 
-**Aqueduto das Águas Livres**
-Gothic aqueduct stretching for 14km.
-
 **Museu Nacional de Arte Antiga**
 Ancient art museum in a modernized, 17th-century palace filled with European paintings & sculpture.
 - Panels of St Vincent, painted around 1470 and attributed to Nuno Gonçalves
 - Hieronymus Bosch's disturbing The Temptations of St Anthony.
 - Dürer "St. Jerome"
+
+**Aqueduto das Águas Livres**
+Gothic aqueduct stretching for 14km.
 
 
 ## Lodging
