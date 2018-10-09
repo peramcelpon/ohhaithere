@@ -39,7 +39,7 @@ Overview
 
 My type of place — slightly hidden but easy to locate, good service without being snobby, great showsmanship in mixology, and equipped with a smoking area in the back (mostly for cigar smokers). The space is intimate and seems fit best for small groups or single travelers. It’s a bar I’d revisit for sure.
 
-2018 October: I decided to take my nightcap here, and went with an “American ganster” (twist of old fashioned) It is slightly sweeter than my taste but good cocktail overall. However, the second drink I had, “too famous to be caught naked”, was just phenomenal and a total gustatory journey. Definitely recommend.
+2018 October: I decided to take my nightcap here, and went with an “American ganster” (twist of old fashioned) It is slightly sweeter than my taste but good cocktail overall. However, the second drink I had, “too famous to be naked”, was just phenomenal and a total gustatory journey. Definitely recommend.
 
 **Pensão Amor**
 
@@ -119,5 +119,13 @@ Ancient art museum in a modernized, 17th-century palace filled with European pai
 ## Lodging
 
 ### From experience
+
+**Fontecruz Lisboa, Autograph Collection**
+
+3/3
+
+As a Marriott girl with love for boutique hotels, Autograph collection is one of my favorite lines in the chain. The Fontecruz did not live down from the expectation. The hotel is filled with customized design details that screams Lisbon. (My room number is in ceramic panels.) The details feel well-tuned. I’ll definitely stay here again. 
+
+Additional points — The hotel is surrounded by high-end luxury boutiques if you like shopping, and walking distance from my favorite bar in Lisbon red frog. 
 
 ### My to-try list
