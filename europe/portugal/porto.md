@@ -37,6 +37,11 @@ Overview
 
 ### From experience
 
+- **Parque das Virtudes**
+    - Amazing location for sunset with beer. The store across the street sells beer.
+- **Sao Bento Station**
+    - Worth a quick pit stop.
+
 ### My to-try list
 
 -----
