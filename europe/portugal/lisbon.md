@@ -62,6 +62,12 @@ old fashioned bar, great cocktail
 
 ### From experience
 
+**Comércio Plaza**
+
+3/3
+
+Like many other destinations, I stumbled upon this one. Stuffed from a Portuguese dinner, I desparately needed a walk, and my taxi driver took me here. The walk along the ocean was incredibly calming and relaxing. 
+
 ### My to-try list
 
 **Alfama District**
