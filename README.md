@@ -21,6 +21,7 @@ Please note that the guides are not meant to be a comprehensive view of the city
 
 - France
     - [Bordeaux](/europe/france/bordeaux.md)
+    - [Paris](/europe/france/paris.md)
 - Germany
     - [Berlin](europe/germany/berlin.md)
     - [Munich](europe/germany/munich.md)
