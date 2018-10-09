@@ -21,11 +21,20 @@ Please note that the guides are not meant to be a comprehensive view of the city
 
 - France
     - [Bordeaux](/europe/france/bordeaux.md)
+- Germany
+    - [Berlin](europe/germany/berlin.md)
+    - [Munich](europe/germany/munich.md)
 - Portugal
     - [Lisbon](/europe/portugal/lisbon.md)
     - [Porto](/europe/portugal/porto.md)
 - Spain
     - [Seville](/europe/spain/seville.md)
+- Switzerland
+    - [Basel](europe/switzerland/basel.md)
+    - [Geneva](europe/switzerland/geneva.md)
+    - [Zurich](europe/switzerland/zurich.md)
+- United Kingdom
+    - [London](europe/united-kingdom/london.md)
 
 ### North America
 
