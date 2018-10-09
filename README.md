@@ -21,7 +21,7 @@ Please note that the guides are not meant to be a comprehensive view of the city
 
 - France
     - [Bordeaux](/europe/france/bordeaux.md)
--Portugal
+- Portugal
     - [Lisbon](/europe/portugal/lisbon.md)
     - [Porto](/europe/portugal/porto.md)
 - Spain
