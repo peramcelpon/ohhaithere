@@ -41,6 +41,7 @@ Overview
 ### My to-try list
 
 - **Aduela taberna/bar** also a local's bar but more hip than Candelabro
+- **The Gin Club** cocktail 
 
 -----
 
@@ -52,8 +53,11 @@ Overview
     - Come with a beer, you'd need it for the view and for the climb when you are walking to this place. This place has one of the best views to see the sunset over Duoro River. This is quite the hangout spot so can get a bit crowded. Don't leave right after sunset.
 - **São Bento station** (1/3)
     - You should come, but just do a quick walkby. The train station fully decorated in blue tiles is quite beautiful, but there's really not much else to it. 
-    
+
 ### My to-try list
+
+- **Porto Cathedral** Hilltop Romanesque cathedral, with a fortress-like interior, a rose window & Gothic cloisters.
+- **Majestic Café** Belle Epoque-era cafe with ornate interior featuring carved wood, mirrors & chandeliers.
 
 -----
 
