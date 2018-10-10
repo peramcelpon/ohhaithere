@@ -48,10 +48,17 @@ Overview
 
 ### From experience
 
+<<<<<<< HEAD
 - **Parque das Virtudes** (3/3)
     - Come with a beer, you'd need it for the view and for the climb when you are walking to this place. This place has one of the best views to see the sunset over Duoro River. This is quite the hangout spot so can get a bit crowded. Don't leave right after sunset.
 - **São Bento station** (1/3)
     - You should come, but just do a quick walkby. The train station fully decorated in blue tiles is quite beautiful, but there's really not much else to it. 
+=======
+- **Parque das Virtudes**
+    - Amazing location for sunset with beer. The store across the street sells beer.
+- **Sao Bento Station**
+    - Worth a quick pit stop.
+>>>>>>> f57121a1f7c46a2a21f4c9b098348ea67180bc7f
 
 ### My to-try list
 
