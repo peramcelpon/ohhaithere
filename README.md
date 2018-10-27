@@ -39,5 +39,15 @@ Please note that the guides are not meant to be a comprehensive view of the city
 
 ### North America
 
-- California
-    - Bay area
+- United States
+    - California
+        - Northern California 
+            - Bay area
+                - North Bay
+                - The Peninsula
+                - East Bay
+                - [South Bay](north_america/united_states/california/south_bay.md)
+        - Central California
+            - [Monterey County](north_america/united_states/california/monterey_county.md)
+    - Texas
+        - [Houston](north_america/united_states/texas/houston.md)
