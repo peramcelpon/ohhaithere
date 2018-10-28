@@ -1,6 +1,6 @@
-# Munich
+# San Francisco
 
-Overview
+Technically SF is a part of the Peninsula -- but I decided to put SF on its own for easy query. 
 
 - [Map](#map)
 - [Food](#food)
@@ -23,8 +23,6 @@ Overview
 
 ### My to-try list
 
-- **Brenner Grill** Italian cuisine in an impressively pillared chamber with modern decor -- Michelin guide restaurant.
-
 -----
 
 ## Drinks
@@ -33,9 +31,8 @@ Overview
 
 ### My to-try list
 
-- **Schumann's** 
-    - the main Schumann’s Bar (which transitions from restaurant to drinking hotspot around midnight) is accompanied by the smaller “Camparino” next door, and the intimate “Fleurs du Mal” on the first floor. Arrive early than late -- and always book a table just in case. 
-
+- **Tommy's** Tequilas tequilas tequilas! One of the best collections in the world -- Tommy's has 400+ bottles in store. They have informal tutored tasting for newbees to Tequila. 
+- **Trick Dog** Neighbourhood warehouse, always a fun form for the menu. Must try the Cala.
 -----
 
 ## Destinations

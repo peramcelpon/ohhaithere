@@ -1,4 +1,4 @@
-# Munich
+# Amsterdam
 
 Overview
 
@@ -23,8 +23,6 @@ Overview
 
 ### My to-try list
 
-- **Brenner Grill** Italian cuisine in an impressively pillared chamber with modern decor -- Michelin guide restaurant.
-
 -----
 
 ## Drinks
@@ -33,8 +31,9 @@ Overview
 
 ### My to-try list
 
-- **Schumann's** 
-    - the main Schumann’s Bar (which transitions from restaurant to drinking hotspot around midnight) is accompanied by the smaller “Camparino” next door, and the intimate “Fleurs du Mal” on the first floor. Arrive early than late -- and always book a table just in case. 
+- **Tales and Spirits** 
+    - Amsterdam’s most decorated cocktail bar. "Drawing on the heritage of both the building and the cocktail world, Tales & Spirits is a small bar, packed with antiques, vintage posters and bar-world paraphernalia."
+    - **To try:** Roald Dahl-inspired Gobblefunk; numbering 11 iterations on the Old Fashioned section; The Nutcracker
 
 -----
 

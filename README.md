@@ -25,6 +25,8 @@ Please note that the guides are not meant to be a comprehensive view of the city
 - Germany
     - [Berlin](europe/germany/berlin.md)
     - [Munich](europe/germany/munich.md)
+- Netherlands
+    - [Amsterdam](europe/netherlands/amsterdam.md)
 - Portugal
     - [Lisbon](/europe/portugal/lisbon.md)
     - [Porto](/europe/portugal/porto.md)
@@ -44,6 +46,7 @@ Please note that the guides are not meant to be a comprehensive view of the city
         - Northern California 
             - Bay area
                 - North Bay
+                - [San Francisco](north_america/united_states/california/san_francisco.md)
                 - The Peninsula
                 - East Bay
                 - [South Bay](north_america/united_states/california/south_bay.md)
