@@ -43,14 +43,25 @@ Please note that the guides are not meant to be a comprehensive view of the city
 
 - United States
     - California
-        - Northern California 
-            - Bay area
-                - North Bay
-                - [San Francisco](north_america/united_states/california/san_francisco.md)
-                - The Peninsula
-                - East Bay
-                - [South Bay](north_america/united_states/california/south_bay.md)
-        - Central California
-            - [Monterey County](north_america/united_states/california/monterey_county.md)
+        - Central Coast
+        - Desert Region
+        - [Monterey County](north_america/united_states/california/monterey_county.md)
+        - North Coast
+        - San Francisco Bay Area 
+            - East Bay
+            - North Bay
+            - [San Francisco](north_america/united_states/california/san_francisco.md)
+            - [South Bay](north_america/united_states/california/south_bay.md)
+            - The Peninsula
+        - Shasta Cascade
+        - Sierra Nevada
+        - South Coast
+            - Greater Los Angeles
+            - San Diego-Tijuana
+        - Surprise Valley
+    - Illinois
+        - Chicago
     - Texas
         - [Houston](north_america/united_states/texas/houston.md)
+    - New York
+        - New York
