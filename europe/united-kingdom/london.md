@@ -22,7 +22,9 @@ Overview
 ### From experience
 
 - **Luca** (3/3)
-    - YES YES YES. My favorite restaurant in London by far, and testified also by my colleages Mihai and Carmen. I went by myself and the staff took such great care of me. The decor is modern and sleek -- truly adds to a wholistic culinary experience. 
+    - YES YES YES. My favorite restaurant in London by far, and testified also by my colleages Mihai, Carmen, Simon and Ryan. I went by myself and the staff took such great care of me. The decor is modern and sleek -- truly adds to a wholistic culinary experience.
+    - Also really like the prefix menu, can be paired with delicous Italian wine -- the staff and chef are really adaptable to culinary restrictions.
+    - Love the scallops and the mushroom pasta. 
 - **Copita** (3/3)
     - Tapas. Great for large groups. Very casual with a fantastic gin and tonic collection. 
 - **Barrafina** (3/3)
@@ -31,6 +33,8 @@ Overview
     - My Chinese spot in London -- Sichuan food -- traditional, spicy, homey!
 - **Dishroom** (3/3)
     - Long lines but definitely worth it! Great Indian food, perfect for groups. 
+- **Darjeeling Express** (3/3)
+    - This restaurant is in a lovely neighbourhood, located on the second floor 
 - **Bocca di Lupo** (2/3)
     - First-rate Italian food is my softspot -- not super fancy but definitly on the more formal end.
 - **Zayna** (2/3)
