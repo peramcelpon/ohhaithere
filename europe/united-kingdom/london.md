@@ -34,7 +34,7 @@ Overview
 - **Dishroom** (3/3)
     - Long lines but definitely worth it! Great Indian food, perfect for groups. 
 - **Darjeeling Express** (3/3)
-    - This restaurant is in a lovely neighbourhood, located on the second floor 
+    - This restaurant is located on the second floor of Kingly Court. The court is adorable and the neighbourhood is fun (both for shopping and just for the vibe). Definitely need a reservation to get in -- very packed even during weekday nights. On the louder front so probably not the best for romantic nights -- but a great food spot. 
 - **Bocca di Lupo** (2/3)
     - First-rate Italian food is my softspot -- not super fancy but definitly on the more formal end.
 - **Zayna** (2/3)
@@ -78,8 +78,11 @@ Overview
     - Another soho bar! Very trendy and relaxed. The drinks were easy-sipping and I loved the sparrow on the hankerchief coasters. 
     - Must try the Sgroppino next time around. I've only been to the 1st floor of the bar, but apparently the basement is the place to be -- with dark booths and dark spirits. 
 - **Milroy's of SOHO and the Vault** (2/3)
-    - The Vault is actually like a vault. You get to it through a bookcase at the back of Milroy's. Very intimate setting with great drinks. 
+    - The Vault is actually like a vault. You get to it through a bookcase at the back of Milroy's. Very intimate setting with good drinks -- it's on the lighter end. 
     - I only got to experience the Vault because Milroy's was packed. I was drooling a bit upstairs at Milroy's at their whiskey collection, wishing I could get a seat.
+- **Disrepute** (2/3)
+    - Disrepute is located at an entrance to Kingly Court -- velvet ropes, not super pronounced entrance. I think this is supposed to be a member's bar, so recommendation is recommended by others. We stopped by during a weekday night and had no trouble getting a seat. 
+    - The drinks are good but I was really in love with the decor. Very photogenic and beautiful bar. 
 
 ### My to-try list
 
@@ -107,7 +110,6 @@ Overview
 - **Untitled Restaurant and Bar** Great cocktails
 - **Gordon's Wine Bar** many a Londoner’s favorite wine bar for good reason. You descend down a narrow flight of stairs to a time-worn space, dark and inviting, with candlelit tables nestling in the gloom under the railway arches.
 - **Behind This Wall** A cool cocktail spot where vinyl rules. Speakeasy style, coc ktail-and-poke joint
-- **Disrepute** technically a member's bar, so recommendation is recommended. Sounds like a fancy place worth a single visit. 
 - **The Wigmore** A modern British tavern at The Langham.
 - **Mint Gun Club** :laid back tea and cocktail lounge that makes you feel like you are drinking in a Nordic living room". 
 
