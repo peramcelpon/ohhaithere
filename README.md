@@ -56,12 +56,12 @@ Please note that the guides are not meant to be a comprehensive view of the city
         - Shasta Cascade
         - Sierra Nevada
         - South Coast
-            - Greater Los Angeles
-            - San Diego-Tijuana
+            - [Greater Los Angeles](north_america/united_states/california/greater_los_angeles.md)
+            - [San Diego-Tijuana](north_america/united_states/california/san_diego_tijuana.md)
         - Surprise Valley
     - Illinois
-        - Chicago
+        - [Chicago](north_america/united_states/illinois/chicago.md)
     - Texas
         - [Houston](north_america/united_states/texas/houston.md)
     - New York
-        - New York
+        - [New York](north_america/united_states/new_york/new_york.md)
