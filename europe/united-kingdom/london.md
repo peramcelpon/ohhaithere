@@ -25,6 +25,9 @@ Overview
     - YES YES YES. My favorite restaurant in London by far, and testified also by my colleages Mihai, Carmen, Simon and Ryan. I went by myself and the staff took such great care of me. The decor is modern and sleek -- truly adds to a wholistic culinary experience.
     - Also really like the prefix menu, can be paired with delicous Italian wine -- the staff and chef are really adaptable to culinary restrictions.
     - Love the scallops and the mushroom pasta. 
+- **Noble Rot** (3/3)
+    - French-British, wine bar + restaurant, undeniably special place. The food, the wine, the atmosphere, the posters on the wall -- it just works. 
+    - slipsole is a must. 
 - **Copita** (3/3)
     - Tapas. Great for large groups. Very casual with a fantastic gin and tonic collection. 
 - **Barrafina** (3/3)
@@ -44,7 +47,6 @@ Overview
 
 ### My to-try list
 
-- **Noble Rot** 9.5 on Infatuation. French-British. Undeniably special place, the bistro of your dreams.
 - **Kitty Fisher's** 9.3 on Infatuation. Old fashion British food. 
 - **Gymkhana** 9.1 "Best Indian food in a city known for Indian food"
 - **Gunpower** 9.0 Indian, simply designed little restaurant right off Commercial Street serving inventive takes on Indian food
@@ -67,7 +69,8 @@ Overview
 ### From experience
 
 - **The Fumoir** (3/3)
-    - My absolute favorite bar in London. It's tucked away in the lobby of Claridge's, named Fumoir as it used to be the Fumoir. Fantastic bartenders and cocktails with a 30s decor. Love it all the way. 
+    - My absolute favorite bar in London. It's tucked away in the lobby of Claridge's, named Fumoir as it used to be the Fumoir. Fantastic bartenders and cocktails with art deco decor.
+    - Crackers. Salty and spicy and so perfect with the old fashioned. Love the bartenders Marco and Lucas!
 - **Bar Termini** (3/3)
     - A bar in Soho, very limited space so make a reservation. I went with a friend but this seems like a great date spot. The house Negroni was SO delicious. I alsy truly enjoyed Death in Venice with Campari. Definitely worth a visit!
 - **Artesian** (2/3)
@@ -83,12 +86,15 @@ Overview
 - **Disrepute** (2/3)
     - Disrepute is located at an entrance to Kingly Court -- velvet ropes, not super pronounced entrance. I think this is supposed to be a member's bar, so recommendation is recommended by others. We stopped by during a weekday night and had no trouble getting a seat. 
     - The drinks are good but I was really in love with the decor. Very photogenic and beautiful bar. 
+- **Dandelyan** (1/3)
+    - Dandelyan is the hotel bar for Mondrian London on the South Bank. Although named best bar in the world in 2017, the place doesn't seem all that special to me. 
+    - +: The view and the beautiful hotel
+    - -: All the chairs/couches are weirdly uncomfortable; the drinks were just meh. 
 
 ### My to-try list
 
 - **Ronnie Scott's** One of the best jazz bars with world-class musicians located in Soho. Must get a ticket and worth a visit. 
 - **Vortex** Dalston's legendary jazz bar, improvised and experimental music
-- **Dandelyan** Won the title of world's best bar in 2018. It's the hotel bar for Mondrian London on the South Bank. 
 - **American Bar** Second place on world's best bar list! The American Bar is also a hotel bar, located at the Savoy Hotel. The menu takes inspiration from the famed celebrity photography of Terry O’Neil.
 - **Connaught** More hotel bars! Named after the hotel, this one is located at the Connaught hotel in Mayfair. Art Deco interial + cocktail is a big yes.
 - **Oriole** From the owners of Nightjar -- it is also hard to get a spot at on short notice with theatricality upon entrace. They also have Jazz night with cover charge sometimes. Book in advance! 
@@ -144,14 +150,16 @@ Overview
 
 ### From experience
 
-- **London Marriott Hotel Marble Arch** (2/3)
-    -  I spent 10 days in this hotel once -- it's definitely a decent spot for business travel. Only complaint -- the pool and the room are both on the smaller end. However, the staff was welcoming and remembered me by day 2 -- I immediately felt at home :) 
 - **London Marriott Hotel County Hall** (3/3)
     - If you've never done it -- get the top-floor suite, it's worth it! Overlooking Thames and Westminister, the view is everything. It's also super easy to walk along the banks -- quite an enjoyable experience at night. 
+- **London Marriott Hotel Marble Arch** (2/3)
+    -  I spent 10 days in this hotel once -- it's definitely a decent spot for business travel. Only complaint -- the pool and the room are both on the smaller end. However, the staff was welcoming and remembered me by day 2 -- I immediately felt at home :) 
+- **St. Ermin's Hotel, Autograph Collection** (2/3)
+    - If you are in town for tourism -- this is a great hotel for that. Tucked away in Westminister, it's a boutique hotel with beautiful decors, cool history with certain intelligent services *cough* MI6 *cough*, and easy access to the tube and other main sites. The rooms are a bit too small but that's pretty true for most European hotels. 
+    - Downside -- Not much to do around here at night. It's a 20 minute + walk from bars and restaurants (at least) I like.
 
 ### My to-try list
 
-- **St. Ermin's Hotel, Autograph Collection**
 - **The Napoleon** It has one bedroom, no reception and three different and diverse bars — a ratio for good times if ever there was one. (Blackrock, Sack, and the Devel's Darling)
 - **St. Pancras Renaissance Hotel London** 1873 Gothic Revival building in the railway station. 
 - **Claridge's Hotel London** Mostly for the Fumoir but also love Claridge's in general!
