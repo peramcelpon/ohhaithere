@@ -23,6 +23,9 @@ Overview
 
 ### My to-try list
 
+- **De Kas** fixed daily menu, farm to table, vegetable-forward menu, vintage greenhouse
+- 
+
 -----
 
 ## Drinks

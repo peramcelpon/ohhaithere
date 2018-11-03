@@ -31,6 +31,8 @@ Please note that the guides are not meant to be a comprehensive view of the city
     - [Lisbon](/europe/portugal/lisbon.md)
     - [Porto](/europe/portugal/porto.md)
 - Spain
+    - Barcelona
+    - Madrid
     - [Seville](/europe/spain/seville.md)
 - Switzerland
     - [Basel](europe/switzerland/basel.md)
