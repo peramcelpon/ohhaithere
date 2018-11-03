@@ -64,7 +64,7 @@ Overview
 - **Le Clown Bar** Clown themed, casual
 - **Pink Mamma** chic new restaurant, fantastic decor and great food — Italian. They don’t take reservation so go when it opens.
 - **Le Violon d'Ingres** Christian Constant restaurant, more on the fine dining end of the house
-- **Constant Cafe** Christian Constant restaurant as well, Brassiere vibe 
+- **Constant Cafe** Christian Constant restaurant as well, brasserie vibe 
 - **Angelina** tea and hot chocolate!
 - **Le Servan**bistro, 11th art. classic french with an international/asian twist; good spot for lunch
 - **Lao Tseu** Chinese restaurant 
