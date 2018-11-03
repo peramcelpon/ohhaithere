@@ -23,6 +23,8 @@ Overview
 
 ### My to-try list
 
+- *京宴 Pekin Palace*
+
 -----
 
 ## Drinks

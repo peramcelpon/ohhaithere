@@ -28,10 +28,10 @@ Overview
 - **Les Cocottes** (3/3) 
 	- One of the Christian Constant restaurants, more on the casual side with grade A food. Everything was delicious and the bar was quite vibrant — great spot to meet people and have a lovely conversation. 
 	- Recommend the squid risotto, poached egg, caesar salad (comes with tons of chicken so could be filling), waffle
-- **Le Pont de Yunnan** (3/3) 
+- **Le Pont de Yunnan 滋味云南** (3/3) 
 	- My Chinese go-to in Paris — it’s always hard to find good Yunnan food and this spot just scratched the itch.
 	- My favorite part — delivers to most addresses in the city ;)
-- **Muqam** (3/3) 
+- **Muqam 木卡姆新疆餐厅** (3/3) 
 	- Xinjiang cuisine / Uyghur cuisine; another cuisine that’s hard to come across. Very casual and more on the hole-in-a-wall end, so you know the food kicks ass.
 	- Recommend 大盘鸡
 - **La Comptoir de la Gastronomie** (3/3) 
@@ -66,11 +66,12 @@ Overview
 - **Le Violon d'Ingres** Christian Constant restaurant, more on the fine dining end of the house
 - **Constant Cafe** Christian Constant restaurant as well, brasserie vibe 
 - **Angelina** tea and hot chocolate!
-- **Le Servan**bistro, 11th art. classic french with an international/asian twist; good spot for lunch
+- **Le Servan** bistro, 11th art. classic french with an international/asian twist; good spot for lunch
+- **Shang Palace 香宫** inside Shang-rila, Michelin 1 star, Cantonese
 - **Lao Tseu** Chinese restaurant 
 - **Maison Dong** Chinese
-- **Saveurs de Chengdu** Chinese, Sichuan, Chengdu cuisine
-- **Chungking Express** Chinese, Sichuan, Chungking food
+- **Saveurs de Chengdu 巴黎老成都川菜馆** Chinese, Sichuan, Chengdu cuisine
+- **Chungking Express 重庆森林** Chinese, Sichuan, Chungking food
 - **Miznon** Israeli, casual, grab and go pita sandwiches; lamb and cauliflower came recommended 
 - **Aux Deux Amis** late night bite, classic french bistro, always lively and packed 
 - **Tour d'Argent** ducks ducks ducks. must try the pressed duck. Michelin. unbelievable wine collection.

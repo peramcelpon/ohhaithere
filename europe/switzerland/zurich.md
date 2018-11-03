@@ -24,6 +24,7 @@ Overview
 ### My to-try list
 
 - **Kronenhalle** Swiss, French, veal dish 
+- **Haus zum Rüden** Gothic dining room in a 13th-century guild hall serving gourmet Swiss dishes, with outdoor tables.
 - **Rico's** French, Michelin
 - **Ecco Zurich** Michelin 2 star, European
 - **White Elephant** Authentic Thai food
