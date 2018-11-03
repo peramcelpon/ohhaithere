@@ -22,7 +22,9 @@ Overview
 ### From experience
 
 - **Frenchie && FTG (Frenchie To Go)** (3/3)
-	- One of my favorite spots in the city. Just go, you’ll have a lovely time. 
+	- One of my favorite spots (The Frenchie in general) in the city. Just go, you’ll have a lovely time. 
+	- I’ve never been able to get a reservation at the restaurant itself, but the wine bar has equally good food and is walk-in only (so you’ve got a fighting chance) 
+	- If you are feeling more on the casual end — Frenchie to go has fantastic sandwiches for a grab and go. 
 - **Les Cocottes** (3/3) 
 	- One of the Christian Constant restaurants, more on the casual side with grade A food. Everything was delicious and the bar was quite vibrant — great spot to meet people and have a lovely conversation. 
 	- Recommend the squid risotto, poached egg, caesar salad (comes with tons of chicken so could be filling), waffle
@@ -54,21 +56,30 @@ Overview
 
 ### My to-try list
 
-- **Verjus** came highly recommended through MJ
+- **Verjus** came highly recommended through MJ. tasting menu, delicious and consistent. 
+- **Ellsworth** sister restaurant to Verjus but casual — great for brunch with a more vegetable forward menu. try the fried chicken. 
 - **Septime** crazy popular — need reservation a month out 
 - **Clamato** sister restaurant to Septime, highly recommended online but MJ was’t a huge fan. Seafood forward.
+- **Bistro Paul Bert** Classic spot, bistro vibe, highly recommended. Slightly further out on 11th. 
+- **Le Clown Bar** Clown themed, casual
 - **Pink Mamma** chic new restaurant, fantastic decor and great food — Italian. They don’t take reservation so go when it opens.
 - **Le Violon d'Ingres** Christian Constant restaurant, more on the fine dining end of the house
 - **Constant Cafe** Christian Constant restaurant as well, Brassiere vibe 
+- **Angelina** tea and hot chocolate!
+- **Le Servan**bistro, 11th art. classic french with an international/asian twist; good spot for lunch
 - **Lao Tseu** Chinese restaurant 
 - **Maison Dong** Chinese
 - **Saveurs de Chengdu** Chinese, Sichuan, Chengdu cuisine
 - **Chungking Express** Chinese, Sichuan, Chungking food
-- **Tour d'Argent** ducks ducks ducks. Michelin. 
+- **Miznon** Israeli, casual, grab and go pita sandwiches; lamb and cauliflower came recommended 
+- **Aux Deux Amis** late night bite, classic french bistro, always lively and packed 
+- **Tour d'Argent** ducks ducks ducks. must try the pressed duck. Michelin. unbelievable wine collection.
+- **Passage 53** Michelin. Fine dining but not stuffy.
 - **Truffes Folies** 
 - **La Fontaine Gaillon**
-- **Le Baratin**
-- **Le Clown Bar** Clown themed, casual
+- **Le Baratin** the anthony bourdain spot in Paris, popular with Parisian chefs
+- **Merci** very chic coffee shop / bakery that makes for a good hangout spot 
+
 
 -----
 
@@ -101,9 +112,21 @@ friendly staff. I was in love with La Belle Arnaque, and the beautiful bartender
 - **Le Syndicat** Craft cocktail as well, create cocktails using exclusively French ingredients.
 - **Little Red Door** Craft cocktail, intimate setting. Must try ‘achievement’, ‘stimulation’ or ‘hedonism’.
 - **Candelaria** Agave focused bar -- very international.
-- **Bar Hemingway** 
+- **Bar Hemingway** in Ritz, world famous, shrine to Hemingway
+- **Le Très Particulier** hotel bar in Montmartre, chic, classy
+- **Bisou** cocktails, no menu, 
+- **Monsieur Antoine** craft cocktail
+- **Danico** cocktail
 - **Bluebird** 
 - **Fréquence** vinyl themed
+- **Le Lavomatic** Classic speakeasy behind a laundermat 
+- **La Mezcaleria**hidden behind hotel 1k’s peruvian restaurant; mexican and mezcal for the win
+- **Castor Club** speakeasy vibe but usually busy
+- **La Commune** same team that built Syndicat
+- **L'Entrée des Artistes Pigalle** art, drinks, jazz, dance, opens late for dancing
+- **La Fine Mousse** fine beer selection from across europe with live jazz
+- **Paname Brewing Company** artisanal beer, water view
+- **Les Trois 8** great beer rotation on tap
 
 -----
 
