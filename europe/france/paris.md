@@ -21,7 +21,20 @@ Overview
 
 ### From experience
 
+- **Frenchie** (3/3)
+- **FTG (Frenchie To Go)** (3/3)
+- **Les Cocottes** (3/3) One of the Christian Constant restaurants
+- **Muqam** (3/3) Xinjiang cuisine / Uyghur cuisine, 大盘鸡
+
 ### My to-try list
+
+- **Le Violon d'Ingres** Christian Constant restaurant, more on the fine dining end of the house
+- **Constant Cafe** Christian Constant restaurant as well, Brassiere vibe 
+- **Lao Tseu** Chinese restaurant 
+- **Maison Dong** Chinese
+- **Saveurs de Chengdu** Chinese
+- **Truffes Folies** 
+- **La Fontaine Gaillon**
 
 -----
 
@@ -42,6 +55,7 @@ friendly staff. I was in love with La Belle Arnaque, and the beautiful bartender
 - **Le Syndicat** Craft cocktail as well, create cocktails using exclusively French ingredients.
 - **Little Red Door** Craft cocktail, intimate setting. Must try ‘achievement’, ‘stimulation’ or ‘hedonism’.
 - **Candelaria** Agave focused bar -- very international.
+- **Bar Hemingway**
 
 -----
 
@@ -50,6 +64,10 @@ friendly staff. I was in love with La Belle Arnaque, and the beautiful bartender
 ### From experience
 
 ### My to-try list
+
+- **Shopping**
+    - **Charvet**
+    - 
 
 -----
 
