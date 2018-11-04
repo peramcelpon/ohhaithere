@@ -58,13 +58,16 @@ Overview
 	- Drinks recommendation: Opa’s Pfiifä is one of the most fun drinks I’ve ever had. It translates to “Grandpa’s pipe” and is served in a pipe that you can drink from both ends (that sounded dirty). In addition, I had my first Seelbach here. 
 	- Music music music!! This is THE place to be for jazz and live music so make sure to check up their calendar. 2018 Nov: the artist played lots of goodie oldie that you can singalong to (like stuck in the middle)! 
 	- Quick note, no dress code is enforced but lots of people suit up at this place.
+- **Cocktail bar at Hotel Storchen** (3/3)
+	- This is probably my favorite hang out spot in Zurich. They have seating right on the river with great cocktails and fantastic service. It’s quite cold here in November and they have furs on the seats and covers that you can use. It’s all about extra mile in thoughtfulness in service. 
+	- I’m currently feeding the swans popcorns (shhhh) and enjoying night view over old town in complete serenity and silence, besides the noise of swan chomping. Need I say more? 
 - **Kronenhalle Bar** (3/3)
 	- Read above for restaurant review. 
 	- The bar is right by the restaurant and quite perfect if you want the immersive art experience without the mediocre food. The drinks are good, some with fun backstories (I had a Giacometti)
 	- Three recommended spots to sit — across from the bar with the Miro, the corner tables by a Picasso, a Matisse and a Paul Klee, or for larger groups, the table by the door under a Rauschenberg. I have to say this again...where else can you find this experience??? And the art nerd in me needs to tell you that all the lamps are Giacometti’s. 
 - **Café Odeon** (2/3)
 	- To be honest, I came here for the historic bonus point, and conveniently it sits across the street from my dinner. Cafe Odeon is probably one of the most famous locations in Zurich with its fascinating history. I won’t bore you with the details because you can Google. It’s comforting to see it remained a local’s bar where people know each other and stop by for greetings. 
-	- Experience-wise — it’s okay. It’s a beautiful cafe with average drinks. Would I come here just for a drink? Likely no. Would I come here with first-timers to impress them? Yes of course.
+	- Experience-wise — it’s okay. It’s a beautiful cafe with average drinks. Would I come here just for a drink? Perhaps (definitely not for cocktails). Would I come here with first-timers to impress them? Yes of course.
 - **Cranberry Bar** (1/3)
 	- It’s the local gay bar — seems like where the community is! Definitely more of a group hang out spots and/or singles/mingles. 
 	- I felt old and tired and bolted after a drink, which is mediocre at best. 
@@ -85,11 +88,10 @@ Overview
 
 ### From experience
 
- - **Walks along the river** (3/3)
+- **Lake Zurich** (3/3)
+- **Walks along the river** (3/3)
 
 ### My to-try list
-
-- **Lake Zurich**
 
 ---- 
 
@@ -124,6 +126,7 @@ Overview
 - **Rietberg Museum** Non-European artworks displayed within a 19th-century villa & landmark modern extension.
 - **Museum Haus Konstruktiv** one of the most impressive examples of New Objectivity and one of the most attractive buildings of industrial architecture. It is the leading museum in the Swiss cultural landscape that focuses on constructive, concrete and conceptual Art, as well as on revealing its continuing impact within contemporary art. 
 - **Cabaret Voltaire** birthplace of the anarchic Dada art movement 
+- **Giacometti Murals** the "flower hall," ornate police station entry hall painted by Augusto Giacometti.
 - **Pavillon Le Corbusier** the façade resembles an unfinished Rubik’s cube
 - **Cocoon** one-of-a-kind, spiral-concept building takes modern office space to the extreme
 
@@ -140,4 +143,8 @@ Overview
 
 ### My to-try list
 
+- **The Dolder Grand** Victorian-era Château further away from downtown. It has amazing view overlooking the city of Zurich and a fantastic piano bar.
+- **Baur au Lac** the IT place for luxury in Zurich — overlooking Lake Zurich with michelin restaurants and amazing cocktails.
 - **Widder Hotel**historic building redesigned to incorporate past and future; amazing bar, situated in old city; each room is individually designed.
+- **Eden au Lac** also lakeside, palatial interior
+- **Hotel Storchen** by the river in old town
