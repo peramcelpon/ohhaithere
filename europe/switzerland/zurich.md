@@ -39,7 +39,7 @@ Overview
 - **Haus zum Rüden** Gothic dining room in a 13th-century guild hall serving gourmet Swiss dishes, with outdoor tables.
 - **Rico's** French, Michelin
 - **Ecco Zurich** Michelin 2 star, European
-- **White Elephant** Authentic Thai food
+- **White Elephant** Authentic Thai food — at Marriott
 - **Hongxi** Cantonese and Shanghai food, fine dining, dimsum
 - **Achi 东北人** Dongbei cuisine, mixed reviews 
 - **Khujug Restaurant** 
@@ -75,6 +75,9 @@ Overview
 ### My to-try list
 
 - **The Old Crow** friendly backstreet bar, rare spirits
+- **Aura** recommended by Patrick
+- **Raygrodski** lively; recommended by Patrick
+- **Jules Verne** great views; recommended by Patrick
 - **OOO** The closest thing Zurich has to a secret bar, this impressive rooftop bar on the Bahnhofstrasse can be found by entering the discreet door to the right of the Modissa clothes store (during the day, you enter by walking through the shop). Take the lift up to the top floor and enjoy amazing award-winning cocktails, and an atmospheric view of the local skyline and busy street below.
 - **Dolder Grand Hotel (Piano Bar)** overlooks the entire city from up high on the Adlisberg; great signature cocktails, an impressive alcohol collection, live piano music (Tuesday to Saturday), monthly jazz evenings
 - **George Bar & Grill** wooden cocktail bar, electro swing music with musicians, and a terrace on three sides of the building
@@ -89,7 +92,7 @@ Overview
 ### From experience
 
 - **Lake Zurich** (3/3)
-- **Walks along the river** (3/3)
+ - **Walks along the river** (3/3)
 
 ### My to-try list
 

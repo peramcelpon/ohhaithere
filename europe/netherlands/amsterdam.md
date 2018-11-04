@@ -24,7 +24,17 @@ Overview
 ### My to-try list
 
 - **De Kas** fixed daily menu, farm to table, vegetable-forward menu, vintage greenhouse
-- 
+- **Little Collins**
+- **Bar LeijtenN**
+- **Arles**
+- **Franggo**
+- **La Perla**
+- **Pllek**
+- **Mook Pancakes**
+- **Bakers and Roasters**
+- **Pijp area in general**
+- **Winkel 43** for Dutch Apple pie
+- **Albert Cuypt market** snacks / farmers market
 
 -----
 
