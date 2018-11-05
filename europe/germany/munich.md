@@ -21,7 +21,7 @@ Overview
 
 ### From experience
 
-- ** Wirtshaus Zum Straubinger** (2/3)
+- **Wirtshaus Zum Straubinger** (2/3)
 	- Looking for Bavarian? This is it! Beer garden with sausage and meat and communal tables. 
 	- The portions are HUGE. (2017 Nov) Danqing and I ordered a meat platter to share for two — it could literally feed a family with 4 kids. 
 	- I marked it as 2 simply because I’m not a fan of Bavarian food, but it’s definitely worth a visit! 
@@ -36,7 +36,7 @@ Overview
 
 ### From experience
 
-- ** Ruby Lilly Hotel & Bar** (3/3)
+- **Ruby Lilly Hotel & Bar** (3/3)
 	- This hotel is right by Kelli’s apartment, and serves really decent cocktail by Bavarian standard. The lovely bartender kept popping by to make sure we are okay based on our cocktail consumption — quite entertaining. 
 	- Memory from 2017 October: Juan joined us after work and we ended the night at their apartment with schnapps and the kitties. The hangover on day 2 almost murdered me but I somehow made it to Berlin one piece. 
 
