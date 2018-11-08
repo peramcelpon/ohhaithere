@@ -23,7 +23,9 @@ Overview
 
 - **Japanese Pancake World** (2/3) 
 	- Ryan’s favorite place in Amsterdam! Pretty decent Japanese Okonomiyaki in multiple regional styles. Worth a try if you are craving Asian food. (Apparently gets very packed at night so get a reservation)
-- **Hummus bistro d&a** 
+- **Hummus bistro d&a** (2/3)
+	- Israeli cuisine. Recommend the hummus, falafel, and the Shushka. Great stop for dinner — cute decor inside as well! 
+	- if you have a sweet tooth — go to **Winkel** for an apple pie with mint tea! 
 
 ### My to-try list
 
@@ -50,19 +52,19 @@ Overview
 ### From experience
 
 - **Tunes Bar** (3/3)
-	- Pretty good cocktails with season menu — slick, modern decor. Based on my track record, of course this is another hotel bar. The hotel itself, Conservatorium, is also beautiful. 
+	- Delicious cocktails with season menu — slick, modern decor. Based on my track record, of course this is another hotel bar -- at Conservatorium.
 	- This is not the best fit for hanging out at the bar by yourself — it’s more of a drinks with your friends after work place (as the bar is swamped with men in suits by 6:30pm on a Wednesday). A little too busy for my taste but also proves its popularity. 
 	- Their Gin and tonic with cucumber actually features a full stripe of cucumber instead of a slice. I was impressed. 
+- **Tales and Spirits** (3/3)
+	- Beautiful bar, packed with antiques, vintage posters, good drinks and personable staff. 
+	- **To try:** Roald Dahl-inspired Gobblefunk; numbering 11 iterations on the Old Fashioned section; The Nutcracker
 
 ### My to-try list
 
-- **Tales and Spirits** 
-	- Amsterdam’s most decorated cocktail bar. "Drawing on the heritage of both the building and the cocktail world, Tales & Spirits is a small bar, packed with antiques, vintage posters and bar-world paraphernalia."
-	- **To try:** Roald Dahl-inspired Gobblefunk; numbering 11 iterations on the Old Fashioned section; The Nutcracker
 - **Pulitzer’s Bar** hotel bar, cocktail, art deco decor
 - **Door 74** speakeasy, cocktail
 - **Vesper Bar** cocktail, named after James Bond’s drink of choice, Vesper Martini
-- **Porem** speakeasy, top tier cocktail with sushi - to try: Sergio Ramos Gin Fizz (looks like it’s closed)
+- **Porem** speakeasy, top tier cocktail with sushi - to try: Sergio Ramos Gin Fizz (looks like it’s closed on Google maps)
 - **The Butcher** speakeasy behind the burger bar; reservation only — emailing them directly; they'll send back a time and a password for entry.
 - **Bar Oldenhof** speakeasy, notoriously hard to find, Hemingway-esque interior, 
 - **Twenty Third Bar** on the 23rd floor of Hotel Okura and offers guests panoramic views across central and southern Amsterdam; their hors-d’oeuvres are prepared at the Michelin-starred restaurant called Ciel Bleu
@@ -73,7 +75,7 @@ Overview
 - **Labyrinth Cocktail, Food and Poetry** multi purpose venue — open mic and poetry often
 - **Cocktailbar NJOY** cocktail, cave-like interior
 - **Bluespoon Restaurant & Bar** hotel bar, cocktail
-- **Cut Throat**cocktail and barber place! 
+- **Cut Throat** cocktail and barber place! 
 - **W Hotel Bar** Cocktails with a view! The balconies have views on Dam Square.
 
 ---- 
@@ -119,3 +121,4 @@ Overview
 	- Cons: thin wall and terrible room service food
 
 ### My to-try list
+
