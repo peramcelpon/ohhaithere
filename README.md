@@ -43,6 +43,8 @@ Please note that the guides are not meant to be a comprehensive view of the city
 
 ### North America
 
+- Canada
+    - [Vancouver](north_america/canada/vancouver.md)
 - United States
     - California
         - Central Coast

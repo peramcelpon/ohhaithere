@@ -1,3 +1,0 @@
-# Moca Museum - Notes
-
------
