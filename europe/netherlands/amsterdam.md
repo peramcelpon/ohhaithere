@@ -114,7 +114,7 @@ Overview
 ### From experience
 
 - **Rijksmuseum** (3/3)
-	- 
+	- Such comprehensive collection on Flemish and Dutch artworks! 
 - **Van Gogh Museum** (3/3)
 	- An absolute must for me. The museum arranged Van Gogh’s works primarily chronologically — shows his artistic development in theme, skills and influence. You can truly walked his path through his works in this museum. 
 	- You’d be disappointed if you are looking for his more well known works — there are a few, but not a ton. However, for art nerds like me, you can clearly see how he builds up his repertoires to works like the Starry Night. 
