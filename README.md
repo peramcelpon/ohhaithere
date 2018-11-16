@@ -44,28 +44,32 @@ Please note that the guides are not meant to be a comprehensive view of the city
 ### North America
 
 - Canada
-    - [Vancouver](north_america/canada/vancouver.md)
+    - [Vancouver](north-america/canada/vancouver.md)
 - United States
-    - California
+    - California (regions based on [wikipedia](https://en.wikipedia.org/wiki/List_of_regions_of_California))
         - Central Coast
         - Desert Region
-        - [Monterey County](north_america/united_states/california/monterey_county.md)
+        - [Monterey County](north-america/united-states/california/monterey-county.md)
         - North Coast
         - San Francisco Bay Area 
             - East Bay
             - North Bay
-            - [San Francisco](north_america/united_states/california/san_francisco.md)
-            - [South Bay](north_america/united_states/california/south_bay.md)
+            - [San Francisco](north-america/united-states/california/san-francisco.md)
+            - [South Bay](north-america/united-states/california/south-bay.md)
             - The Peninsula
         - Shasta Cascade
         - Sierra Nevada
         - South Coast
-            - [Greater Los Angeles](north_america/united_states/california/greater_los_angeles.md)
-            - [San Diego-Tijuana](north_america/united_states/california/san_diego_tijuana.md)
-        - Surprise Valley
+            - [Greater Los Angeles](north-america/united-states/california/greater-los-angeles.md)
+            - [San Diego-Tijuana](north-america/united-states/california/san-diego-tijuana.md)
+        - Sunrise Valley
+    - Florida
+        - [Miami](north-america/united-states/florida/miami.md)
     - Illinois
-        - [Chicago](north_america/united_states/illinois/chicago.md)
+        - [Chicago](north-america/united-states/illinois/chicago.md)
+    - Massachusetts
+        - [Boston](north-america/united-states/massachusetts/boston.md)
     - Texas
-        - [Houston](north_america/united_states/texas/houston.md)
+        - [Houston](north-america/united-states/texas/houston.md)
     - New York
-        - [New York](north_america/united_states/new_york/new_york.md)
+        - [New York](north-america/united-states/new-york/new-york.md)

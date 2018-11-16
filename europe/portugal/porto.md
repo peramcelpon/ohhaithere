@@ -73,7 +73,7 @@ Overview
 
 ### From experience
 
-- **Airbnb** [Explore a Cidade e Contemple o Rio à Janela](https://www.airbnb.com/rooms/plus/25185120) (3/3)
+- **Airbnb - [Explore a Cidade e Contemple o Rio à Janela](https://www.airbnb.com/rooms/plus/25185120)** (3/3)
     - Strongly recommend. The host is amazing, the location is amazing, the view can not be beat. This will certainly be my go-to spot if I come back to Porto. Tiny problem  -- make sure you pack light or you can carry your suitcase up the second floor, as elevator is the only thing not available for this apartment.
 
 ### My to-try list
