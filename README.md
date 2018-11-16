@@ -52,10 +52,10 @@ This is the very beginning of the project, so naturally many cities are not comp
         - Central Coast
         - Desert Region
         - [Monterey County](north-america/united-states/california/monterey-county.md)
-        - North Coast
+        - [North Coast](north-america/united-states/california/north-coast.md)
         - San Francisco Bay Area 
             - East Bay
-            - [North Bay](north-america/united-states/california/north-coast.md)
+            - North Bay
             - [San Francisco](north-america/united-states/california/san-francisco.md)
             - [South Bay](north-america/united-states/california/south-bay.md)
             - The Peninsula
