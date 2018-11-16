@@ -6,10 +6,12 @@ This is a dual-purposed project. It serves both as my reference and travel diary
 - Food
 - Drinks
 - Destinations
-- Art
+- Art & Architecture
 - Lodging
 
 Please note that the guides are not meant to be a comprehensive view of the city, but a personal snippet through my lens.
+
+This is the very beginning of the project, so naturally many cities are not complete / added -- if you need insights regarding a particular city that's not there yet...file an issue in this project and I'll try my best to add it in a timely manner!
 
 ----------
 
@@ -53,7 +55,7 @@ Please note that the guides are not meant to be a comprehensive view of the city
         - North Coast
         - San Francisco Bay Area 
             - East Bay
-            - North Bay
+            - [North Bay](north-america/united-states/california/north-coast.md)
             - [San Francisco](north-america/united-states/california/san-francisco.md)
             - [South Bay](north-america/united-states/california/south-bay.md)
             - The Peninsula
