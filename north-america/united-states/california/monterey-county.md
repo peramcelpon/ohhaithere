@@ -1,4 +1,3 @@
-@: CA - Monterey 
 # Monterey County
 
 One of my favorite California destinations, this section includes the following locations:
