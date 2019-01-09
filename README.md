@@ -51,24 +51,24 @@ This is the very beginning of the project, so naturally many cities are not comp
     - California (regions based on [wikipedia](https://en.wikipedia.org/wiki/List_of_regions_of_California) and listed roughly north-south)
         - Northern California
             - Shasta Cascade
-            - [North Coast](north-america/united-states/california/north-coast.md)
+            - [North Coast](north-america/united-states/california/north/north-coast.md)
             - Sierra Nevada
             - Sunrise Valley
             - San Francisco Bay Area 
                 - East Bay
-                - [North Bay](north-america/united-states/california/north-bay.md)
-                - [San Francisco](north-america/united-states/california/san-francisco.md)
-                - [South Bay](north-america/united-states/california/south-bay.md)
+                - [North Bay](north-america/united-states/california/north/north-bay.md)
+                - [San Francisco](north-america/united-states/california/north/san-francisco.md)
+                - [South Bay](north-america/united-states/california/north/south-bay.md)
                 - The Peninsula
             - Central Califonia
-                - [Monterey County](north-america/united-states/california/monterey-county.md)
+                - [Monterey County](north-america/united-states/california/north/monterey-county.md)
         - Southern California
             - Central Coast
                 - San Luis Obispo Area
                 - Santa Barbara Area
             - South Coast
-                - [Greater Los Angeles](north-america/united-states/california/greater-los-angeles.md)
-                - [San Diego-Tijuana](north-america/united-states/california/san-diego-tijuana.md)
+                - [Greater Los Angeles](north-america/united-states/california/south/greater-los-angeles.md)
+                - [San Diego-Tijuana](north-america/united-states/california/south/san-diego-tijuana.md)
             - Desert Region
     - Florida
         - [Miami](north-america/united-states/florida/miami.md)
