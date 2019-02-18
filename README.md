@@ -69,7 +69,7 @@ This is the very beginning of the project, so naturally many cities are not comp
             - South Coast
                 - [Greater Los Angeles](north-america/united-states/california/south/greater-los-angeles.md)
                 - [San Diego-Tijuana](north-america/united-states/california/south/san-diego-tijuana.md)
-            - Desert Region
+            - [Desert Region](north-america/united-states/california/south/desert-region.md)
     - Florida
         - [Miami](north-america/united-states/florida/miami.md)
     - Illinois
