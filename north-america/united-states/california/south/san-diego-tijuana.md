@@ -22,18 +22,26 @@ Very to be completed and work in progress.
 ### From experience
 
 - **Civico 1845** (3/3)
-    - Italian, perfect for lunch outside
+    - perfect for lunch outside, Southern Italian seafood dishes
 - **Juniper & Ivy** (3/3)
-    – really delicious American, reservation is a must
+    – really delicious American, reservation is a must, evolving menu
 - **City Tacos** (3/3)
     - more hole-in-the-wall type of place but worth a visit 
 - **Searsucker San Diego** (2/3)
     - decent American food in downtown, shrimp and grits is a must
 
 ### My to-try list
+- **Born and Raised** Little Italy steakhouse, classic
+- **Kettner Exchange** Asian-inflected a la carte, chef Brian Redzikowski known for his Chef’s Table experience
 - **Davanti Enoteca** Italian 
 - **Bencotto** Italian
-- **Herb & Wood** Chicken 
+- **CUCINA urbana** Italian-inspired menu, sharable, modern
+- **Crack Shack** spin-off from Juniper & Ivy team, fried chicken and fresh fare set in all-outdoor setting
+- **Herb & Wood** Sprawling, upscale locale serving rustic, wood-fired dishes & old-school cocktails.
+- **Herb & Eatery** casual counterpart to Herb and Wood
+- **Addison at The Grand Del Mar** tasting menu, French culinary style, reservation must
+- **Menya Ultra** Japanese, ramen, signature tonkotsu broth, likely need to wait during peak time
+
 
 -----
 
@@ -43,8 +51,8 @@ Very to be completed and work in progress.
 
 - **Noble Experiment** (3/3)
     - Speakeasy, cocktail
-- **Bar at the US Grant** (3/3)
-    - Classic establishment, my favorite hotel bar
+- **Grant Grill Lounge** (3/3)
+    - Bar at US Grant, Classic establishment, my favorite hotel bar
 
 ### My to-try list
 
@@ -82,7 +90,7 @@ Very to be completed and work in progress.
 ### From experience
 
 - **The US Grant, Luxury Collection, San Diego** (3/3)
-    - Easily the best hotel in San Diego in my opinion. Historic, Classy, and it comes with a fantastic bar -- I simply love everything about this place.
+    - Easily the best hotel in San Diego in my opinion. Historic (100+ years old), Classy, and it comes with a fantastic bar -- I simply love everything about this place.
     - Pop by the bar to try the Centennial cocktail! It's made with a special blend of High West that's only sold at this hotel bar. 
 - **Hotel Republic San Diego, Autograph Collection** (2/3)
 - **Hilton San Diego Bayfront** (2/3)
