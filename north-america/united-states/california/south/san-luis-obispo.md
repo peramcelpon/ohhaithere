@@ -26,12 +26,15 @@ San Luis Obispo County
 
 ### From experience
 
+- **(San Luis Obispo) Novo Restaurant & Lounge** (3/3)
+    - reekside patio, lively, mix
 - **(Pismo Beach) Splash Café Pismo Beach** (2/3)
 - **(Paso Robles) BL Brasserie (formerly Bistro Laurent)** (2/3)
     - great french wine
 
 ### My to-try list
 
+- **(San Luis Obispo) Giuseppe's Cucina Rustica** Italy's Pugliese region
 - **(Nipomo) Jocko's**
 - **(Paso Robles) Negranti Creamery**
 - **(Paso Robles) Il Cortile Ristorante** italian, seasonal, contemporary 
@@ -63,8 +66,11 @@ San Luis Obispo County
 
 - **(San Simeon) Piedras Blancas Elephant Seal Rookery** (3/3)
     - Elephant seals watching
+- **(San Luis Obispo) Bubblegum Alley** (1/3)
 
 ### My to-try list
+
+- **(San Luis Obispo) Mission San Luis Obispo de Tolosa** 18th-century Spanish mission & museum
 
 -----
 

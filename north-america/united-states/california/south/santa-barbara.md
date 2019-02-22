@@ -24,18 +24,19 @@ Santa Barbara County
 
 ### From experience
 
-- **(Santa Barbara) Santa Barbara Shellfish Company** 
+- **(Santa Barbara) Santa Barbara Shellfish Company** (2/3)
     – crab fresh on the harbour
-- **(Santa Barbara) Santa Barbara Fish Market** 
+- **(Santa Barbara) Santa Barbara Fish Market** (3/3)
     – fresh seafood (can buy a full uni)
-- **(Santa Barbara) The Shop Kitchen** 
+- **(Santa Barbara) The Shop Kitchen** (3/3)
     – awesome brunch
-- **(Santa Barbara) Los Agaves Restaurant** 
+- **(Santa Barbara) Los Agaves Restaurant** (3/3)
     – Mexican sit down
-- **(Santa Barbara) La Super-Rica Taqueria** 
+- **(Santa Barbara) La Super-Rica Taqueria** (3/3)
     – tacos
-- **(Santa Barbara) Lilly's Taqueria** 
+- **(Santa Barbara) Lilly's Taqueria** (3/3)
     – tacos
+- **(Santa Barbara) McConnell's Fine Ice Creams** (3/3)
 
 ### My to-try list
 
@@ -71,7 +72,11 @@ Santa Barbara County
 
 ### From experience
 
+- **(Santa Barbara) Mission Santa Barbara** (3/3)
+
 ### My to-try list
+
+- **(Santa Barbara) Santa Barbara Zoo** compact zoo
 
 -----
 
