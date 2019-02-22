@@ -40,7 +40,6 @@ It's a wide range to cover, and locations are listed from north to south (roughl
 
 ### My to-try list
 
-- **(Palm Springs) **
 
 -----
 

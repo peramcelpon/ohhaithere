@@ -1,6 +1,6 @@
-# San Francisco
+# Santa Barbara
 
-Technically SF is a part of the Peninsula -- but I decided to put SF on its own for easy query. 
+Overview
 
 - [Map](#map)
 - [Food](#food)
@@ -31,8 +31,6 @@ Technically SF is a part of the Peninsula -- but I decided to put SF on its own 
 
 ### My to-try list
 
-- **Tommy's** Tequilas tequilas tequilas! One of the best collections in the world -- Tommy's has 400+ bottles in store. They have informal tutored tasting for newbees to Tequila. 
-- **Trick Dog** Neighbourhood warehouse, always a fun form for the menu. Must try the Cala.
 -----
 
 ## Destinations
@@ -55,6 +53,6 @@ Technically SF is a part of the Peninsula -- but I decided to put SF on its own 
 
 ### From experience
 
-- **The St. Regis San Francisco** (3/3)
+- 
 
 ### My to-try list
