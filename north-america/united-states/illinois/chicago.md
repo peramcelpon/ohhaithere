@@ -118,9 +118,12 @@ Overview
 ## Lodging
 
 ### From experience
+
 - **Hotel EMC2, Autograph Collection** (3/3)
 	- Let me just say — O M G. This is literally one of my favorite hotel of ALL TIMES. Their room services are delivered by robots. Let me repeats. ROBOTS — named Leo and Cleo. You text them what you want, and the robot brings it up in 5 minutes. You can even order via the in-room Alexa!!! I’m thoroughly amazed and obsessed. 
 - **Moxy Chicago Downtown**(1/3)
 	- Young hotel, the lobby is always popping with people getting drunk and hanging out. The beds are queen size and the rooms quite tiny — not my favorite. 
-
+- **Chicago Marriott at Medical District/UIC** (1/3)
+	- Far from everything and older
+	
 ### My to-try list

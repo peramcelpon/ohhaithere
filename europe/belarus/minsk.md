@@ -1,4 +1,4 @@
-# South Bay
+# Minsk
 
 Overview
 
@@ -53,6 +53,6 @@ Overview
 
 ### From experience
 
-- **AC Hotel San Jose Downtown** (2/3)
+- **Renaissance Minsk Hotel** (2/3)
 
 ### My to-try list

@@ -51,6 +51,7 @@ Overview
 - **Crustacean Beverly Hills** Asian fusion
 - **Sushi Sasabune**
 - **Belle Vie Food & Wine** California centric French food, neighbourhood bistro
+- **(Laguna Beach) Broadway by Amar Santana** American
 
 -----
 
@@ -130,6 +131,7 @@ Overview
 - **(Airbnb) [Breathtaking Views from Chic Mid Century Modern House](https://www.airbnb.com/rooms/plus/16872492)** (3/3)
     - Beautiful architecture, spatious home, 2b/2b, clean, in a residential neighbourhood. 
     - Driving up to this place and parking WILL be hard. 
+- **Sheraton Grand Los Angeles** (3/3)
 - **W Los Angeles - West Beverly Hills** (2/3)
 - **Renaissance Los Angeles Airport Hotel** (1/3)
 

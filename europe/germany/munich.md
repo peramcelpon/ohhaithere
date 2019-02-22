@@ -107,7 +107,7 @@ Overview
 
 ### From experience
 
-- **Roomers Munich, Autograph Collection**
+- **Roomers Munich, Autograph Collection** (3/3)
 	- Boutique
 - **Courtyard by Marriott, Munich City** (2/3)
 	- Decent business hotel right by the train station and walking distance to the central area. The immediate neighborhood can seem a tad sketchy but commute is super easy.

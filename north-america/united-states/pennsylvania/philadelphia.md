@@ -1,4 +1,4 @@
-# South Bay
+# Philadelphia
 
 Overview
 
@@ -37,6 +37,8 @@ Overview
 
 ### From experience
 
+- **Liberty Bell** (2/3)
+
 ### My to-try list
 
 -----
@@ -45,7 +47,11 @@ Overview
 
 ### From experience
 
+- **Philadelphia Museum of Art** (3/3)
+
 ### My to-try list
+
+- **Rodin Museum** 
 
 -----
 
@@ -53,6 +59,7 @@ Overview
 
 ### From experience
 
-- **AC Hotel San Jose Downtown** (2/3)
+- **Courtyard Philadelphia Downtown** (2/3)
+    - Very historic for a Courtyard
 
 ### My to-try list

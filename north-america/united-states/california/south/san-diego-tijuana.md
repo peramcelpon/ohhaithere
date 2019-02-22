@@ -84,6 +84,7 @@ Very to be completed and work in progress.
 - **The US Grant, Luxury Collection, San Diego** (3/3)
     - Easily the best hotel in San Diego in my opinion. Historic, Classy, and it comes with a fantastic bar -- I simply love everything about this place.
     - Pop by the bar to try the Centennial cocktail! It's made with a special blend of High West that's only sold at this hotel bar. 
+- **Hotel Republic San Diego, Autograph Collection** (2/3)
 - **Hilton San Diego Bayfront** (2/3)
     - Nothing spectacular. Not the closest to the bars, not the closest to the convention center. It is right on the harbour so the breakfast view is quite amazing.
 

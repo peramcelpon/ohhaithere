@@ -1,4 +1,4 @@
-# South Bay
+# Seattle
 
 Overview
 
@@ -53,6 +53,7 @@ Overview
 
 ### From experience
 
-- **AC Hotel San Jose Downtown** (2/3)
+- **Renaissance Seattle Hotel** (3/3)
+- **Moxy Seattle Downtown** (2/3)
 
 ### My to-try list

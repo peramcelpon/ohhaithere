@@ -56,5 +56,9 @@ Technically SF is a part of the Peninsula -- but I decided to put SF on its own 
 ### From experience
 
 - **The St. Regis San Francisco** (3/3)
+- **W San Francisco** (2/3)
+- **Hotel Adagio, Autograph Collection** (2/3)
+- **San Francisco Marriott Union Square** (2/3)
+- **San Francisco Marriott Marquis** (2/3)
 
 ### My to-try list

@@ -1,6 +1,6 @@
-# South Bay
+# Kansas City
 
-Overview
+The Missouri part
 
 - [Map](#map)
 - [Food](#food)
@@ -53,6 +53,6 @@ Overview
 
 ### From experience
 
-- **AC Hotel San Jose Downtown** (2/3)
+- **Ambassador Hotel Kansas City, Autograph Collection** (2/3)
 
 ### My to-try list

@@ -1,6 +1,10 @@
-# South Bay
+# Utah County
 
-Overview
+Includes the following cities
+- Lehi
+- Provo
+
+Coming from my many business travels to Lehi.
 
 - [Map](#map)
 - [Food](#food)
@@ -53,6 +57,6 @@ Overview
 
 ### From experience
 
-- **AC Hotel San Jose Downtown** (2/3)
+- **(Lehi) Courtyard Lehi at Thanksgiving Point** (2/3)
 
 ### My to-try list

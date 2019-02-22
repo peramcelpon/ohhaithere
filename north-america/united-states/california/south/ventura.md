@@ -1,6 +1,4 @@
-# South Bay
-
-Overview
+# Ventura Area
 
 - [Map](#map)
 - [Food](#food)
@@ -53,6 +51,6 @@ Overview
 
 ### From experience
 
-- **AC Hotel San Jose Downtown** (2/3)
-
 ### My to-try list
+
+- **(Ojai) Ojai Valley Inn** 

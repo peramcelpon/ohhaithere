@@ -111,6 +111,7 @@
     - THERE IS A LAZY RIVER IN THE SHAPE OF TEXAS. Enough said. Go and enjoy it.
     - Also best location if you are at a conference because it's connected to the conference center. 
     - Don't eat at the lobby restaurants -- I tried 3 of them and they all sucked. :(
+- **Houston Marriott Medical Center/Museum District** (1/3)
 
 ### My to-try list
 

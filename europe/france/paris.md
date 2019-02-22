@@ -157,6 +157,8 @@ friendly staff. I was in love with La Belle Arnaque, and the beautiful bartender
 
 ### From experience
 
+- **Le Dokhan's, a Tribute Portfolio Hotel, Paris** (3/3)
+	- Amazing elevator and champagne bar
 - **Le Metropolitan, A Tribute Collection** (2/3)
 	- This boutique hotel is right by Trocadéro Plaza but off-set just enough for lighter foot traffics. The design is very modern but rooms are a bit too small by my standards. 
 	- You can see the Eiffel Tower from the balcony if you are on a higher floor — but “just the tip” —- cc Ryan ;)

@@ -21,6 +21,8 @@ This is the very beginning of the project, so naturally many cities are not comp
 
 ### Europe
 
+- Belarus
+    - [Minsk](europe/belarus/minsk.md)
 - France
     - [Bordeaux](/europe/france/bordeaux.md)
     - [Paris](/europe/france/paris.md)
@@ -64,19 +66,33 @@ This is the very beginning of the project, so naturally many cities are not comp
                 - [Monterey County](north-america/united-states/california/north/monterey-county.md)
         - Southern California
             - Central Coast
-                - San Luis Obispo Area
-                - Santa Barbara Area
+                - [San Luis Obispo Area](north-america/united-states/california/south/san-luis-obispo.md)
+                - [Santa Barbara Area](north-america/united-states/california/south/santa-barbara.md)
+                - [Ventura Area](north-america/united-states/california/south/ventura.md)
+                - Central Valley (South)
             - South Coast
                 - [Greater Los Angeles](north-america/united-states/california/south/greater-los-angeles.md)
                 - [San Diego-Tijuana](north-america/united-states/california/south/san-diego-tijuana.md)
             - [Desert Region](north-america/united-states/california/south/desert-region.md)
     - Florida
         - [Miami](north-america/united-states/florida/miami.md)
+    - Hawaii
+        - [Oahu](north-america/united-states/hawaii/oahu.md)
     - Illinois
         - [Chicago](north-america/united-states/illinois/chicago.md)
     - Massachusetts
         - [Boston](north-america/united-states/massachusetts/boston.md)
-    - Texas
-        - [Houston](north-america/united-states/texas/houston.md)
+    - Missouri
+        - [Kansas City](north-america/united-states/missouri/kansas-city.md)
     - New York
         - [New York](north-america/united-states/new-york/new-york.md)
+    - Pennsylvania
+        - [Philadelphia](north-america/united-states/pennsylvania/philadelphia.md)
+    - Texas
+        - [Houston](north-america/united-states/texas/houston.md)
+    - Utah
+        - Salt Lake City
+        - [Utah County](north-america/united-states/utah/utah-county.md)
+    - Washington
+        - [Seattle](north-america/united-states/washington/seattle.md)
+    

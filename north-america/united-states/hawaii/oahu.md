@@ -1,6 +1,6 @@
-# South Bay
+# Oahu
 
-Overview
+- Honolulu
 
 - [Map](#map)
 - [Food](#food)
@@ -53,6 +53,7 @@ Overview
 
 ### From experience
 
-- **AC Hotel San Jose Downtown** (2/3)
+- **The Laylow, Autograph Collection** (2/3)
+    - Modern, lively
 
 ### My to-try list

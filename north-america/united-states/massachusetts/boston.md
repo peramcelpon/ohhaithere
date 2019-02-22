@@ -53,4 +53,6 @@ Overview
 
 ### From experience
 
+- **Courtyard Boston Copley Square** (2/3)
+
 ### My to-try list

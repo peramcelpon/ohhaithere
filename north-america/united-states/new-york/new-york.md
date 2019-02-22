@@ -181,5 +181,10 @@ Overview
 
 ### From experience
 
+- **New York Marriott Marquis** (2/3)
+- **AC Hotel New York Times Square** (2/3)
+- **The Lexington Hotel, Autograph Collection** (1/3)
+- **Fairfield Inn & Suites New York Manhattan/Chelsea** (1/3)
+
 ### My to-try list
 
