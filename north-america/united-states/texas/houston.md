@@ -33,6 +33,7 @@
 - **Mala Sichuan Bistro** Another Chinese restaurant to try
 - **B & B Butchers** Think meat first, dry-aged meat with Kobe available on the menu
 - **Tacos Tierra Caliente** Beloved taco truck
+- **Ramen Tatsu-ya** Sheridan's Ramen go to
 
 -----
 
@@ -47,9 +48,10 @@
 
 - **Tongue-Cut Sparrow** more formal cocktail bar vibe, speakeasy, through a staircase in the back of Pastry War, small space
 - **The Ready Room** jazz bar, old-school vibe
-- **OKRA Charity Saloon** very cool venue and concept
+- **OKRA Charity Saloon** very cool venue and concept; non-profit bar
 - **Anvil Bar & Refuge** craft cocktail scene
 - **Julep** known for great bartenders (Alba Huerta), one of the best cocktails bars in America
+- **Captain Foxheart's Bad News Bar & Spirits Lodge** old-style cocktails, right in downtown 
 - **Reserve 101** best whiskey bar in Texas by Thrillist
 - **Public Services Wine & Whiskey** long list of whiskey and wine
 - **Better Luck Tomorrow (BLT)** fun neighbourhood hang out spot
