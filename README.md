@@ -89,6 +89,7 @@ This is the very beginning of the project, so naturally many cities are not comp
     - Pennsylvania
         - [Philadelphia](north-america/united-states/pennsylvania/philadelphia.md)
     - Texas
+        - [Austin](north-america/united-states/texas/austin.md)
         - [Houston](north-america/united-states/texas/houston.md)
     - Utah
         - Salt Lake City
