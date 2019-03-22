@@ -55,9 +55,7 @@
 - **Reserve 101** best whiskey bar in Texas by Thrillist
 - **Public Services Wine & Whiskey** long list of whiskey and wine
 - **Better Luck Tomorrow (BLT)** fun neighbourhood hang out spot
-
-
-
+- **Saint Arnold Brewing Company** Houston’s oldest craft brewery
 
 -----
 
@@ -67,11 +65,16 @@
 
 - **Discovery Green** (2/3)
     - Nice area to hang out at with good art additions. 
+- **Minute Maid Park** (1/3)
 
 ### My to-try list
 
+- **Montrose Distict**  Montrose has become the city’s hub of vintage shopping, live music, and LGBT activism. Restored mansions and bungalows, tree-lined boulevards, and an antique mall make this neighborhood a unique, pedestrian-friendly tourist spot.
 - **Space Center Houston**
-- **Water Wall**
+- **Buffalo Bayou Park**
+- **Hines Waterwall Park** The park features a 64 ft semi circular fountain that re-circulates 11,000 gallons of water per minute that tumbles down the structure’s inner and outer walls.
+- **Museum of Natural Science** 
+- **Cockrell Butterfly Center** The center is home to a living butterfly habitat with spectacular specimens of some of the world’s strangest arthropods as well as fun interactive quizzes and games.
 
 -----
 
@@ -98,10 +101,13 @@
     - Architecture
         - The Caroline Wiess Law Building designed by Mies van der Rohe
         - The Audrey Jones Beck Building designed by Rafael Moneo
+- **The Menil Collection** The Menil Collection’s main museum building anchors a parklike 30-acre campus, which also includes the Cy Twombly Gallery, a site-specific Dan Flavin installation, the Byzantine Fresco Chapel—now a venue for long-term installations by contemporary artists—and outdoor sculpture.
 - **Rothko Chapel**
     - AN ABSOLUTE MUST. I've been trying to go there FOR YEARS. Supposedly, it is a transcendent experience. 
+- **James Turrell's Twilight Epiphany Skyscape** event venue in Rice Univercity
 - **Chapel of St. Basil**
 - **Brochstein Pavilion / Thomas Phifer and Partners**
+- **Hobby Center for the Performing Arts** 
 
 -----
 
