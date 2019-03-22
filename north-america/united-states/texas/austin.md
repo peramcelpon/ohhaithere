@@ -90,6 +90,7 @@
 
 ### My to-try list
 
+- **Blanton Museum of Art** The Jack S. Blanton Museum of Art at the University of Texas at Austin is one of the largest university art museums in the U.S. with 189,340 square feet devoted to temporary exhibitions, permanent collection galleries, storage, administrative offices, classrooms, a print study room, an auditorium, shop, and cafe.
 - **Umlauf Sculpture Garden** Exhibition of Charles Umlauf's works includes an outdoor collection of touchable bronze sculptures.
 - **The Driskill** Austin's original and iconic hotel features beautiful Romanesque architecture from the late 1800's. With a grand entrance into the opulent lobby, you will be transported to an historic era, with its marble floors, stained-glass dome, and corridors filled with museum-quality artwork. Head up the grand staircase to the most authentic Texas bar in downtown Austin, with daily live music and happy hour.
 - **Graffiti Park** also known as Hope Outdoor Gallery and there are normally plenty of artists around to have a chat with
