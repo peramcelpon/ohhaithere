@@ -19,6 +19,11 @@ This is the very beginning of the project, so naturally many cities are not comp
 
 ### Asia
 
+- India
+    - [Bengaluru](asia/india/bengaluru.md)
+- Thailand
+    - [Chiang Mai](asia/thailand/chiang-mai.md)
+
 ### Australia
 
 - Australia
