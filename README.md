@@ -19,6 +19,17 @@ This is the very beginning of the project, so naturally many cities are not comp
 
 ### Asia
 
+### Australia
+
+- Australia
+    - [Alice Springs](australia/australia/alice-springs.md)
+    - [Byron Bay](australia/australia/byron-bay.md)
+    - [Cairns](australia/australia/cairns.md)
+    - [Darwin](australia/australia/darwin.md)
+    - [Melbourne](australia/australia/melbourne.md)
+    - [Port Douglas](australia/australia/port-douglas.md)
+    - [Sydney](australia/australia/sydney.md)
+
 ### Europe
 
 - Belarus
