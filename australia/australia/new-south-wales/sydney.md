@@ -37,7 +37,7 @@
 
 ### My to-try list
 
-- Watson’s Bay
+- **Watson’s Bay** Australia's oldest fishing village and remains a thriving local inlet popular for its splendid views
 
 -----
 
@@ -54,3 +54,7 @@
 ### From experience
 
 ### My to-try list
+
+- **Sheraton Grand Sydney Hyde Park**
+- **Pier One Sydney Harbour, Autograph Collection**
+- **The Old Clare Hotel, Chippendale**

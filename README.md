@@ -27,13 +27,17 @@ This is the very beginning of the project, so naturally many cities are not comp
 ### Australia
 
 - Australia
-    - [Alice Springs](australia/australia/alice-springs.md)
-    - [Byron Bay](australia/australia/byron-bay.md)
-    - [Cairns](australia/australia/cairns.md)
-    - [Darwin](australia/australia/darwin.md)
-    - [Melbourne](australia/australia/melbourne.md)
-    - [Port Douglas](australia/australia/port-douglas.md)
-    - [Sydney](australia/australia/sydney.md)
+    - Northern Territory
+        - [Alice Springs](australia/australia/northern-territory/alice-springs.md)
+        - [Darwin](australia/australia/northern-territory/darwin.md)
+    - New South Wales
+        - [Byron Bay](australia/australia/new-south-wales/byron-bay.md)
+        - [Sydney](australia/australia/new-south-wales/sydney.md)
+    - Queensland
+        - [Cairns](australia/australia/queensland/cairns.md)
+        - [Port Douglas](australia/australia/queensland/port-douglas.md)
+    - Victoria
+        - [Melbourne](australia/australia/victoria/melbourne.md)
 
 ### Europe
 

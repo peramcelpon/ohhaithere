@@ -101,3 +101,4 @@ Very to be completed and work in progress.
 - **Pendry San Diego** 
     - Very modern and chic hotel in the middle of Gaslamp. I've gotten drinks, food and attended conferences here, but I've never stayed here. They have a champagne vending machine in the lobby -- enough said ;)
 - **Hotel del Coronado** Cross reference ^ same entry above
+- **The Westin San Diego Gaslamp Quarter**
