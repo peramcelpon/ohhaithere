@@ -49,6 +49,8 @@ This is the very beginning of the project, so naturally many cities are not comp
 - Germany
     - [Berlin](europe/germany/berlin.md)
     - [Munich](europe/germany/munich.md)
+- Italy
+    - [Milan](europe/italy/milan.md)
 - Netherlands
     - [Amsterdam](europe/netherlands/amsterdam.md)
 - Portugal
