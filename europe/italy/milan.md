@@ -141,6 +141,8 @@ Overview
 - **Galleria Carla Sozzani** showcased the best of national and international photography during over 200 exhibitions featuring top-tier photographers
 - **Associazione Viafarini** Art gallery
 - **Casa Galimberti** Art Nouveau apartment with wrought-iron balconies and decorative stone work
+- **Galleria Massimo De Carlo** Art gallery
+- **Casa Museo Boschi Di Stefano** Once-private collection of 20th-century Italian art displayed in the owners' art deco apartment.
 
 -----
 
@@ -153,3 +155,4 @@ Overview
 ### My to-try list
 
 - **Palazzo Parigi Hotel & Grand Spa Milano**
+- **Armani Hotel Milano**
