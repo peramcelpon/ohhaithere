@@ -156,3 +156,4 @@ Overview
 
 - **Palazzo Parigi Hotel & Grand Spa Milano**
 - **Armani Hotel Milano**
+- **Bulgari Hotel Milano**
