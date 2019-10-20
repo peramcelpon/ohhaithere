@@ -146,11 +146,16 @@ This is the very beginning of the project, so naturally many cities are not comp
 - Canada
     - Toronto
     - [Vancouver](north-america/canada/vancouver.md)
+- Cayman Islands
+- Cuba
+- Jamaica
 - Mexico
     - Cancun
     - Guadalajara
     - Mexico City
 - United States
+    - Arizona
+        - Phoenix
     - California (regions based on [wikipedia](https://en.wikipedia.org/wiki/List_of_regions_of_California) and listed roughly north-south)
         - Northern California
             - Shasta Cascade
@@ -171,27 +176,53 @@ This is the very beginning of the project, so naturally many cities are not comp
                 - [Santa Barbara Area](north-america/united-states/california/south/santa-barbara.md)
                 - [Ventura Area](north-america/united-states/california/south/ventura.md)
                 - Central Valley (South)
-            - South Coast
+            - South Coast 
                 - [Greater Los Angeles](north-america/united-states/california/south/greater-los-angeles.md)
                 - [San Diego-Tijuana](north-america/united-states/california/south/san-diego-tijuana.md)
             - [Desert Region](north-america/united-states/california/south/desert-region.md)
+    - Colorado
+        - Colorado Springs
+        - Denver
     - Florida
         - [Miami](north-america/united-states/florida/miami.md)
+    - Georgia
+        - Atlanta
     - Hawaii
         - [Oahu](north-america/united-states/hawaii/oahu.md)
     - Illinois
         - [Chicago](north-america/united-states/illinois/chicago.md)
+    - Indiana
+        - Indianapolis
+    - Louisiana
+        - New Orleans
     - Massachusetts
         - [Boston](north-america/united-states/massachusetts/boston.md)
+    - Michigan
+        - Detroit
+    - Minnesota
+        - Minneapolis 
     - Missouri
         - [Kansas City](north-america/united-states/missouri/kansas-city.md)
+        - St. Louis
+    - Nevada
+        - Las Vegas
+    - New Mexico
+        - Albuquerque
     - New York
         - [New York](north-america/united-states/new-york/new-york.md)
+    - Oregon
+        - Portland
     - Pennsylvania
         - [Philadelphia](north-america/united-states/pennsylvania/philadelphia.md)
+        - Pittsburgh
+    - Tennessee
+        - Nashville
     - Texas
         - [Austin](north-america/united-states/texas/austin.md)
+        - Dallas
+        - El Paso
         - [Houston](north-america/united-states/texas/houston.md)
+        - San Antonio
     - Utah
         - Salt Lake City
         - [Utah County](north-america/united-states/utah/utah-county.md)
