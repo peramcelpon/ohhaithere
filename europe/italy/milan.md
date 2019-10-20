@@ -23,6 +23,8 @@ Overview
 
 - **Terrazza Calabritto Milano** (3/3)
     - Great service and great food. Pasta Granseola is a must -- served on a crab, it would definitely be a memorable dish.
+- **La Veranda at The Four Seasons** (3/3)
+    - romantic restaurant, true Italian and Mediterranean cuisine
 
 ### My to-try list
 
@@ -30,7 +32,6 @@ Overview
 - **Il Luogo di Aimo e Nadia** Two star, tasting menu, Tuscan cuisine
 - **Da Giacomo** Elegant, old-world trattoria with ornate wall paneling & graniglia floors, for upscale Italian fare.
 - **Cracco** One star, a restaurant, a bar, a bistro, a wine cellar and a pastry shop. Italian, known for egg yolk spaghetti
-- **La Veranda at The Four Seasons** romantic restaurant, true Italian and Mediterranean cuisine
 - **Sadler** Two star, to try - the goose liver, raisins, nuts, toasted pan brioches, bitter chocolate sauce, zest of orange and coffee.
 - **Contraste** innovative (guessing gastronomy)
 - **Langosteria Café Milano** Fine dining, seafood
@@ -60,11 +61,13 @@ Overview
 
 - **Dry** (2/3)
     - Known for cocktail and pizza. The cocktail menu is great with lots of fun twists. The drinks I tried are mostly on the sweeter side, light and breezy. I didn't have the greatest experience with the service at this place, but it could be just Friday night craziness. 
+- **Mag Cafe** (3/3) 
+    - Restaurant, cafe, bar
+- **1930 Speakeasy** (3/3/)
+    - Established by members of Mag Cafe, Speakeasy 
 
 ### My to-try list
 
-- **Mag Cafe** Restaurant, cafe, bar
-- **1930 Speakeasy** Established by members of Mag Cafe, Speakeasy 
 - **Backdoor43** the smallest bar in the world. Knock on the window and Mr. V, the only Mixologist in town that wears a mask, will make you a takeaway cocktail.
 - **Bar Basso** Milan mainstay, historic, known for Mirko Stocchetto and Negroni Sbagliato (literally "wrong"); popular with an art and fashion crowd
 - **Nottingham Forest** amazing cocktail, funky/tacky decor
@@ -112,6 +115,8 @@ Overview
 
 - **Pinacoteca di Brera** (3/3)
     - Amazing collection of 14th- 20th century Italian paintings with beautiful architecture. An absolute must for me. The place to see Bellini, Caravaggio, Tintoretto, and Veronese.
+- **Fondazione Prada** (3/3)
+    - Whimsical exhibits of contemporary art in a unique complex of buildings designed by Rem Koolhaas.
 - **Milan Central Station** (2/3)
     - one of Europe’s largest, was built slowly over the course of the early 20th century, melding multiple architectural style
 
@@ -125,7 +130,6 @@ Overview
 - **Basilica di Sant'Ambrogio** One of the most ancient churches in Milan, it was built by St. Ambrose in 379–386. Romanesque
 - **Teatro alla Scala** La Scala is an opera house in Milan, Italy. The theatre was inaugurated on 3 August 1778 and was originally known as the Nuovo Regio Ducale Teatro alla Scala. The premiere performance was Antonio Salieri's Europa riconosciuta.
 - **Mudec Museum** Restored factory now a sleek museum of art & culture, with rotating exhibitions & a restaurant.
-- **Fondazione Prada** Whimsical exhibits of contemporary art in a unique complex of buildings designed by Rem Koolhaas.
 - **Museo del Novecento** The Museo del Novecento is a museum of twentieth-century art in Milan, in Lombardy in northern Italy. It is housed in the Palazzo dell'Arengario, near Piazza del Duomo in the centre of the city.
 - **Duomo di Milano** Milan Cathedral is the cathedral church of Milan, Lombardy, Italy. Dedicated to the Nativity of St Mary (Santa Maria Nascente), it is the seat of the Archbishop of Milan, currently Archbishop Mario Delpini. The cathedral took nearly six centuries to complete. It is the largest church in Italy (the larger St. Peter's Basilica is in the State of Vatican City), the third largest in Europe and the fifth largest in the world. Representation of Italian Gothic style.
 - **Museo Poldi Pezzoli** The museum was originated in the 19th century as a private collection of Gian Giacomo Poldi Pezzoli and his mother, Rosa Trivulzio, of the family of the condottiero Gian Giacomo Trivulzio.

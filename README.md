@@ -17,12 +17,46 @@ This is the very beginning of the project, so naturally many cities are not comp
 
 ## Destinations
 
+### Africa
+
+- Morocco
+- Nigeria
+- Seychelles
+- South Africa
+
 ### Asia
 
+- China
+    - Beijing 北京
+    - Chengdu 成都
+    - Guangzhou 广州
+    - Shanghai 上海
+    - Wuhan 武汉
 - India
     - [Bengaluru](asia/india/bengaluru.md)
+- Indonesia
+    - Bali
+- Japan
+    - Hokkaido
+    - Kyoto
+    - Osaka
+    - Nagoya
+    - Sapporo
+    - [Tokyo](asia/japan/tokyo.md)
+- Lebanon
+    - Beirut
+    - Faraiya
+- Maldives
+- Singaport
+- South Korea
+    - Seoul
 - Thailand
     - [Chiang Mai](asia/thailand/chiang-mai.md)
+- Turkey
+    - Istanbul
+- United Arab Emirates
+    - Dubai
+- Vietnam
 
 ### Australia
 
@@ -38,28 +72,67 @@ This is the very beginning of the project, so naturally many cities are not comp
         - [Port Douglas](australia/australia/queensland/port-douglas.md)
     - Victoria
         - [Melbourne](australia/australia/victoria/melbourne.md)
+- French Polynesia
+- New Zealand
 
 ### Europe
 
+- Austria
+    - Vienna
 - Belarus
     - [Minsk](europe/belarus/minsk.md)
+- Belgium
+    - Antwerp
+    - Brussels
+- Czechia
+    - Prague
+- Denmark
+    - Copenhagen
+- Estonia
+    - Tallinn
+- Finland
+    - Helsinki
 - France
     - [Bordeaux](/europe/france/bordeaux.md)
     - [Paris](/europe/france/paris.md)
+    - [Provence-Alpes-Côte d'Azur](europe/france/provence-alpes-cote-d'Azur.md)
 - Germany
     - [Berlin](europe/germany/berlin.md)
+    - Frankfurt
+    - Hamburg
     - [Munich](europe/germany/munich.md)
+    - Stuttgart
+- Greece
+    - Athens
+- Hungary
+    - Budapest
+- Iceland
 - Italy
+    - Amalfi Coast
+    - Florence
+    - Lake Como
     - [Milan](europe/italy/milan.md)
+    - Pompeii
+    - Rome
+    - Venice
+- Monaco
 - Netherlands
     - [Amsterdam](europe/netherlands/amsterdam.md)
+- Norway
+    - Oslo
+- Poland
+    - Warsaw
+    - Kraków
 - Portugal
     - [Lisbon](/europe/portugal/lisbon.md)
     - [Porto](/europe/portugal/porto.md)
 - Spain
+    - Balearic Islands
     - Barcelona
     - Madrid
     - [Seville](/europe/spain/seville.md)
+- Sweden
+    - Stockholm
 - Switzerland
     - [Basel](europe/switzerland/basel.md)
     - [Geneva](europe/switzerland/geneva.md)
@@ -69,8 +142,14 @@ This is the very beginning of the project, so naturally many cities are not comp
 
 ### North America
 
+- Bermuda
 - Canada
+    - Toronto
     - [Vancouver](north-america/canada/vancouver.md)
+- Mexico
+    - Cancun
+    - Guadalajara
+    - Mexico City
 - United States
     - California (regions based on [wikipedia](https://en.wikipedia.org/wiki/List_of_regions_of_California) and listed roughly north-south)
         - Northern California
@@ -119,3 +198,14 @@ This is the very beginning of the project, so naturally many cities are not comp
     - Washington
         - [Seattle](north-america/united-states/washington/seattle.md)
     
+### South America
+- Argentina
+    - Buenos Aires
+- Brazil
+    - Porto Seguro
+    - Rio de Janeiro
+    - Salvador
+    - São Paulo
+- Peru
+    - Cusco
+    - Lima
